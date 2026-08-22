@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-zlo5lh.elecpaync.com/sitemap.xml
